@@ -5,4 +5,4 @@ Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-http//:projetosnicolasgarcia.github.io/Personal_website/
+http://projetosnicolasgarcia.github.io/Personal_website/
